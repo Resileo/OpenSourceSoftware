@@ -63,8 +63,16 @@ firebug-2-fx.xpi	Version: 2-fx
 netExport-0.9b6.xpi	Version: 0.9b6	
 https://github.com/firebug/netexport/blob/master/license.txt
 
-JMeter	Version: 2.11	
+
+Apache-JMeter	Version: 3.1
 https://github.com/apache/jmeter/blob/trunk/LICENSE
+
+InfluxDB	Version: 1.1.1
+https://github.com/influxdata/influxdb/blob/master/LICENSE
+
+Grafana		Version: 4.0.2
+https://github.com/grafana/grafana/blob/master/LICENSE.md
+
 
 PostgresSQL 	Version: 9.3.2	
 http://www.postgresql.org/about/licence/ 
@@ -151,4 +159,3 @@ Logstash	Version: 2.1.1
 Kibana		Version: 4.3.1
 Filebeat	Version: 1.0.1
 WinLogbeat	Version: 1.1.0
-
