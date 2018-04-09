@@ -159,3 +159,11 @@ Logstash	Version: 2.1.1
 Kibana		Version: 4.3.1
 Filebeat	Version: 1.0.1
 WinLogbeat	Version: 1.1.0
+
+
+Glowroot Version 0.10.6
+Website: https://glowroot.org/
+Source https://github.com/glowroot/glowroot
+Glowroot is licensed under Apache 2.0 license: http://www.apache.org/licenses/LICENSE-2.0
+License URL: https://github.com/glowroot/glowroot/blob/3d367ec8fab8633e87dad4d2806d86c2f59adde0/LICENSE
+
